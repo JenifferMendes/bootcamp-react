@@ -24,4 +24,10 @@
 elemento.classList.toggle('classQueEsconde')
 ```
 ## Aula 02
+
+higher order function:
+
+uma função que recebe uma função de parametro ou retorna uma função.
+
+
 https://youtu.be/E8XpsKvmAjw?t=4624
