@@ -29,5 +29,6 @@ higher order function:
 
 uma função que recebe uma função de parametro ou retorna uma função.
 
+## Aula 03
 
-https://youtu.be/E8XpsKvmAjw?t=4624
+https://youtu.be/BhYMMQ0vf-0?t=7544
