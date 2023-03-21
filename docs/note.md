@@ -31,4 +31,28 @@ uma função que recebe uma função de parametro ou retorna uma função.
 
 ## Aula 03
 
+
+```js
+const img = '<img src="x" />' //um html em string
+
+element.insertAdjacentHTML('posição', img)
+
+//posição de onde o elemento vai aparecer:
+
+//fora do elemento:
+//beforebegin - antes do elemento
+// afterend - depois do elemento
+
+// dentro do elmento:
+//afterbegin - como first child do elemento - igual ao opção do preprend
+//beforeend - como last child do elemento - igual o appendChild
+
+```
+[documentação sobre element.insertAdjacentHTML()](https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML)
+
+
+## Form
+
+
+
 https://youtu.be/BhYMMQ0vf-0?t=7544
