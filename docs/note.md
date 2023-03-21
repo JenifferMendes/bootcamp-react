@@ -54,5 +54,9 @@ element.insertAdjacentHTML('posição', img)
 ## Form
 
 
+[desafio do dia](https://github.com/brainnco/desafios-pre-work-b-academy/tree/main/dia3)
 
-https://youtu.be/BhYMMQ0vf-0?t=7544
+
+[Aula 03](https://youtu.be/BhYMMQ0vf-0?t=7544)
+
+## Aula 04
